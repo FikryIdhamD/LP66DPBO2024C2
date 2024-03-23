@@ -48,6 +48,9 @@ Terdapat textfield untuk mengisi data nim, nama dan prodi. JComboBox untuk mengi
 
 ![Add_Data_Kosong](https://github.com/FikryIdhamD/LP66DPBO2024C2/assets/147605722/ad49be41-1907-4b44-968b-08a1d65b50f0)
 
+**Tambah Data(Jika NIM Sudah ada)**
+
+![Add_Data_Sudah_Ada](https://github.com/FikryIdhamD/LP66DPBO2024C2/assets/147605722/f59e4a35-22d3-4c0b-b4db-5372ebc77f69)
 
 **Ubah Data**
 
