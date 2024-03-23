@@ -1,4 +1,4 @@
-# LATIHAN6DPBO2023
+# TUGASPRAKTIKUM2DPBO2023
 Saya Fikry Idham Dwiyana NIM 2101294 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Tugas:
