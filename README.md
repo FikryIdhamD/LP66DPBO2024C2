@@ -45,6 +45,7 @@ Terdapat textfield untuk mengisi data nim, nama dan prodi. JComboBox untuk mengi
 ![Add_Data2](https://github.com/FikryIdhamD/LP5DPBO2024C2/assets/147605722/638ac153-2de9-4f8a-b7d0-23aeaf704ba6)
 
 **Tambah Data(Jika Kosong)**
+
 ![Add_Data_Kosong](https://github.com/FikryIdhamD/LP66DPBO2024C2/assets/147605722/ad49be41-1907-4b44-968b-08a1d65b50f0)
 
 
@@ -54,9 +55,11 @@ Terdapat textfield untuk mengisi data nim, nama dan prodi. JComboBox untuk mengi
 ![Update_Data2](https://github.com/FikryIdhamD/LP5DPBO2024C2/assets/147605722/ba3a14d3-d562-4cf5-a3c5-f5006c2b19d1)
 
 **Ubah Data(Jika Kosong)**
+
 ![Update_Data_Kosong](https://github.com/FikryIdhamD/LP66DPBO2024C2/assets/147605722/cc6f2305-d9b5-44ae-baf8-44ef7549fa72)
 
 **Ubah Data(Jika NIM Sudah ada)**
+
 ![Update_Data_Sudah_Ada](https://github.com/FikryIdhamD/LP66DPBO2024C2/assets/147605722/1ef1e4f3-47ed-4f3b-96e7-a0dd3c9972cd)
 
 **Hapus Data**
